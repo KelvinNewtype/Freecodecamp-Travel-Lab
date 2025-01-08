@@ -31,7 +31,7 @@ Feel free to customize the page further to match your personal style or add addi
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and does not have a license.
 
 ---
 
