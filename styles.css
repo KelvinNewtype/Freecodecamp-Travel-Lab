@@ -1,0 +1,112 @@
+/* General Reset */
+body, h1, h2, p, ul, li, figure {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Brutalist Colors and Fonts */
+body {
+    background: #fff;
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 3rem;
+    background: #ff4136;
+    color: #fff;
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    background: #0074d9;
+    color: #fff;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+/* Links */
+a {
+    color: #001f3f;
+    text-decoration: none;
+    font-weight: bold;
+    background: #7fdbff;
+    padding: 3px 8px;
+    border: 2px solid #001f3f;
+}
+
+a:hover {
+    background: #001f3f;
+    color: #fff;
+}
+
+/* Lists */
+ul {
+    list-style-type: square;
+    margin: 15px 0;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Images and Figures */
+figure {
+    display: inline-block;
+    margin: 20px 10px;
+    text-align: center;
+    border: 5px solid #39cccc;
+    padding: 10px;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #ff851b;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-size: 1rem;
+    background: #ff851b;
+    color: #fff;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+/* Paragraphs */
+p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    background: #2ecc40;
+    color: #fff;
+    padding: 10px;
+    display: inline-block;
+}
+
+/* Overall Layout */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+}
