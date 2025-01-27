@@ -18,6 +18,28 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     };
 
+    // Lazy loading for images
+    // This ensures that images are only loaded when they are about to enter the viewport
+    const lazyLoadImages = () => {
+        const lazyImages = document.querySelectorAll("img[data-src]");
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const img = entry.target;
+                    img.src = img.dataset.src; // Set the actual image source
+                    img.removeAttribute("data-src"); // Remove the data-src attribute
+                    observer.unobserve(img); // Stop observing the image
+                }
+            });
+        });
+
+        lazyImages.forEach(img => {
+            observer.observe(img);
+        });
+    };
+
+    lazyLoadImages(); // Initialize lazy loading
+
     // Listen for mouse movements
     document.addEventListener("mousemove", (event) => {
         const element = document.elementFromPoint(event.clientX, event.clientY);
