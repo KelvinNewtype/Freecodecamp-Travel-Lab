@@ -1,4 +1,4 @@
-Y8### 🌍 Travel Agency Page ✈️  
+U6Y8### 🌍 Travel Agency Page ✈️  
 
 This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML lab, the one directly after HTML Fundamentals. It showcases various travel packages and top itineraries, allowing for practice in HTML structure, semantics, and CSS styling.  
 
@@ -80,9 +80,9 @@ https://your-backend-endpoint.com/hover
    <link rel="stylesheet" href="styles.css">  
    ```
 4. Link the JS file to the HTML using this line in the `<head>`:
-```html
-<script src="path/to/script.js"></script>
-```
+   ```html
+   <script src="path/to/script.js"></script>
+   ```
 5. Open the HTML file in a web browser to view the travel agency page.  
 5. Feel free to customize the page further to match your personal style or add additional features! 🌟  
 
