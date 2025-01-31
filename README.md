@@ -30,8 +30,50 @@ This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML
   - **Bright primary colors**: Each section is visually distinct for clarity and emphasis.  
   - **Minimal spacing**: Ensures a direct and clean layout.  
   - **Retro typewriter font**: Adds a functional, old-school feel.  
-  - **Centered layout**: Keeps the design simple and engaging.  
+  - **Centered layout**: Keeps the design simple and engaging.
 
+
+#### JS:
+
+
+# 🎯 User Tracking & Lazy Loading
+
+## ✨ Features
+- 🔍 Mouse hover tracking & data collection
+- 🖼️ Smart image lazy loading
+- 📡 Backend data transmission
+
+## 🚀 Setup
+```html
+<script src="path/to/script.js"></script>
+```
+
+## 💻 Usage
+### Image Lazy Loading
+```html
+<img data-src="image.jpg" alt="Description">
+```
+
+### 📊 Hover Data Format
+```json
+{
+    "x": number,
+    "y": number,
+    "element": string,
+    "textContent": string | null,
+    "timestamp": string
+}
+```
+
+## ⚙️ Requirements
+- 🌐 Modern browser
+- 📡 Active backend endpoint
+
+## 🔧 Note
+Update backend URL before deployment:
+```javascript
+https://your-backend-endpoint.com/hover
+```
 ---
 
 ### 🚀 How to Use  
@@ -40,7 +82,8 @@ This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML
 3. Link the CSS file to the HTML using this line in the `<head>`:  
    ```html  
    <link rel="stylesheet" href="styles.css">  
-   ```  
+   ```
+ 
 4. Open the HTML file in a web browser to view the travel agency page.  
 5. Feel free to customize the page further to match your personal style or add additional features! 🌟  
 
