@@ -43,10 +43,6 @@ This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML
 - 🖼️ Smart image lazy loading
 - 📡 Backend data transmission
 
-## 🚀 Setup
-```html
-<script src="path/to/script.js"></script>
-```
 
 ## 💻 Usage
 ### Image Lazy Loading
@@ -83,8 +79,13 @@ https://your-backend-endpoint.com/hover
    ```html  
    <link rel="stylesheet" href="styles.css">  
    ```
- 
-4. Open the HTML file in a web browser to view the travel agency page.  
+4. Link the JS file to the HTML using this line in the '<head>':
+
+ ## 🚀 Setup
+```html
+<script src="path/to/script.js"></script>
+```
+5. Open the HTML file in a web browser to view the travel agency page.  
 5. Feel free to customize the page further to match your personal style or add additional features! 🌟  
 
 ---
