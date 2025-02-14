@@ -87,7 +87,7 @@ https://your-backend-endpoint.com/hover
 5. Feel free to customize the page further to match your personal style or add additional features! 🌟  
 
 ---
-
+NEWRYOE OUT
 ### 📄 License  
 This project is open source and does not have a license.  
 
