@@ -1,5 +1,5 @@
 Push to Deployment Vercel 
-Email portion needed 
+Emails needed 
 ### 🌍 Travel Agency Page ✈️  
 
 This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML lab, the one directly after HTML Fundamentals. It showcases various travel packages and top itineraries, allowing for practice in HTML structure, semantics, and CSS styling.  
