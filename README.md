@@ -1,6 +1,6 @@
 Push to Deployment Vercel 
 
-Email & Newsletter function needed 
+Email & Newsletter function should be implemented 
 
 ### 🌍 Travel Agency Page ✈️  
 
