@@ -1,6 +1,6 @@
 Push to Deployment Vercel 
 
-Emails needed 
+Email & Newsletter function needed 
 
 ### 🌍 Travel Agency Page ✈️  
 
