@@ -1,4 +1,4 @@
-Push to Deployment 
+Push to Deployment on vercel 
 
 Email & Newsletter function should be implemented 
 
