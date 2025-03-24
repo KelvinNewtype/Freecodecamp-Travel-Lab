@@ -28,7 +28,7 @@ This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML
   - **Centered layout**: Keeps the design simple and engaging
 
 #### JS:
-# 🎯 User Tracking & Lazy Loading
+# 🎯 User Tracking 
 
 ## ✨ Features
 - 🔍 Mouse hover tracking & data collection
