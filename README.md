@@ -4,7 +4,7 @@ This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML
 
 ---
 
-### 📝 User Stories  
+### 📝 User Stories 
 #### HTML:  
 - The page includes a `DOCTYPE` declaration  
 - The `html` element has the `lang` attribute set to `"en"`  
@@ -28,7 +28,7 @@ This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML
   - **Centered layout**: Keeps the design simple and engaging
 
 #### JS:
-# 🎯 User Tracking 
+# 🎯 User Tracking and Lazy Loading 
 
 ## ✨ Features
 - 🔍 Mouse hover tracking & data collection
