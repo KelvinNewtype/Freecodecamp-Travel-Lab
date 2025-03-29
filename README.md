@@ -25,7 +25,7 @@ This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML
 - Features include:  
   - **Bright primary colors**: Each section is visually distinct for clarity and emphasis  
   - **Minimal spacing**: Ensures a direct and clean layout  
-  - **Retro typewriter font**: Adds a functional, old-school feel  
+  - **Typewriter font**: Adds a functional, old-school feel  
   - **Centered layout**: Keeps the design simple and engaging
 
 #### JS:
