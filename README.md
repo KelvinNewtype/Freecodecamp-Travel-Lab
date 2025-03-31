@@ -1,4 +1,3 @@
-Implement some self commenting JS CODE 
 ### 🌍 Travel Agency Page ✈️  
 
 This project, created by Kelvin Newtype, is a solution for the FreeCodeCamp HTML lab, the one directly after HTML Fundamentals. It showcases various travel packages and top itineraries, allowing for practice in HTML structure, semantics, and CSS styling.  
