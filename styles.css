@@ -1,5 +1,5 @@
 /* General Reset & Modern Typography */
-/* Using Gen Z preferred fonts: Inter, Outfit, Plus Jakarta Sans */
+/* Using preferred fonts: Inter, Outfit, Plus Jakarta Sans */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
 body, h1, h2, p, ul, li, figure {
     margin: 0;
