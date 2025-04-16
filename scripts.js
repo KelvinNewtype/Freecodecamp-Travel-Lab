@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Function sends hover data to the backend
+    // This function sends hover data to the backend
     const sendHoverData = (data) => {
         fetch("https://your-backend-endpoint.com/hover", {
             method: "POST",
