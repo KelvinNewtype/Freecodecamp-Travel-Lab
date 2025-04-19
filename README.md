@@ -17,7 +17,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
 - Improved accessibility with ARIA labels and roles
 - Optimized image alt texts for SEO
 - Enhanced contact section with proper email formatting
-- Footer with updated copyright and privacy policy links
+- Footer with copyright and privacy policy links
 
 #### CSS:  
 - Styled using **brutalism design principles** to give the page a bold and functional aesthetic  
