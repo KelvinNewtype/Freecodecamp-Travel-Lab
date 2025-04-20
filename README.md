@@ -10,7 +10,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
 - The "html" element has the `lang` attribute set to `"en"`  
 - The `head` element contains:
   - Complete SEO meta tags including Open Graph and Twitter Cards
-  - Proper canonical URLs and favicon
+  - Proper URLs and favicon
   - Enhanced meta descriptions and keywords
   - Social media sharing optimization
 - Structured navigation with semantic HTML5 elements
