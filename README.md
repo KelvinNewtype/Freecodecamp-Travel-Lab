@@ -1,6 +1,6 @@
 ### Travel Agency Page ✈️  
 
-This project is the solution for a FreeCodeCamp HTML lab, the one directly after the HTML Fundamentals lesson. It showcases various travel packages and top itineraries, allowing for practice in HTML structure, semantics, and CSS styling.  
+This project is the solution for a FreeCodeCamp HTML lab, the one directly after the HTML Fundamentals lesson. It showcases various travel packages and top itineraries, allowing for practice in HTML structure, semantics, and CSS styles.  
 
 ---
 
