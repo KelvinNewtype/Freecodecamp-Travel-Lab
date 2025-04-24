@@ -32,7 +32,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
 
 ## ✨ Features
 - 🔍 Mouse hover tracking & data collection
-- 🖼️ Smart image lazy loading
+- 🖼️ Image lazy loading
 - 📡 Backend data transmission
 - 📧 Email & Newsletter subscription functionality
 - 🔄 Form validation and submission handling
