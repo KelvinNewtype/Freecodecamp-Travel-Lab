@@ -28,7 +28,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
   - **Centered layout**: Keeps the design centered, simple and engaging
 
 #### JS:
-# 🎯 User Tracking and Lazy Loading 
+# 🎯 User Tracking and Image Lazy Loading 
 
 ## ✨ Features
 - 🔍 Mouse hover tracking & data collection
