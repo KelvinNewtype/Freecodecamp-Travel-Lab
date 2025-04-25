@@ -7,7 +7,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
 ### 📝 User Stories 
 #### HTML:  
 - The page includes a "DOCTYPE" declaration  
-- The "html" element has the `lang` attribute set to `"en"`  
+- The "html" element has the "lang" attribute set to `"en"`  
 - The `head` element contains:
   - Complete SEO meta tags including Open Graph and Twitter Cards
   - Proper URLs and favicon
