@@ -40,7 +40,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
 ## 💻 Usage
 ### Image Lazy Loading
 ```html
-<img data-src="image.jpg" alt="Description">
+<img data-src="image.jpg" alt="description">
 ```
 
 ### 📊 Hover Data Format
