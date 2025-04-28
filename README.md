@@ -12,7 +12,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
   - Complete SEO meta tags including Open Graph and Twitter Cards
   - Proper URLs and favicon
   - Enhanced meta descriptions and keywords
-  - Social media sharing optimization
+  - Social media (X and FB optimised) sharing optimization
 - Structured navigation with semantic HTML5 elements
 - Improved accessibility with ARIA labels and roles
 - Optimized image alt texts for Search Engine Optimisation 
