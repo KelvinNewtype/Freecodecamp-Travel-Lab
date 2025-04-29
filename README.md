@@ -96,6 +96,6 @@ https://your-backend-endpoint.com/hover
 ---
 
 ### 📄 License  
-This project is open source and does not have a license. So feel free to use this. 
+This project is open source and does not have a license.
 
 Newtype out. 🚀✨
