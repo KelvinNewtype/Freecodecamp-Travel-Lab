@@ -38,7 +38,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
 - 🔄 Form validation and submission handling
 
 ## 💻 Usage
-### Image Lazy Loading
+### Lazy Loading
 ```html
 <img data-src="image.jpg" alt="description">
 ```
