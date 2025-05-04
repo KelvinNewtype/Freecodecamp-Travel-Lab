@@ -61,7 +61,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
 - 📧 Newsletter service integration
 
 ## 🔧 Deployment
-1. Configure Vercel deployment settings
+1. Configure Vercel deployment parameters 
 2. Set up environment variables for email service
 3. Update backend URL before deployment:
 ```javascript
