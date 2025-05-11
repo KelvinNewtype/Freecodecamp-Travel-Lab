@@ -13,7 +13,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
   - Proper URLs and favicon
   - Enhanced meta descriptions and keywords
   - Social media (X and FB optimised) sharing optimization
-- Structured navigation with semantic HTML5 elements
+- Structured navigation with HTML5 elements
 - Improved accessibility with ARIA labels and roles
 - Optimized image alt texts for Search Engine Optimisation 
 - Enhanced contact section with a proper email format
