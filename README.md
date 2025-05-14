@@ -88,7 +88,7 @@ https://your-backend-endpoint.com/hover
    <script src="path/to/script.js"></script>
    ```
 5. Configure email and newsletter functionality
-6. Deploy to Vercel (Check ways to buy domains) 
+6. Deploy to Vercel (Check ways to buy domains and renewal options) 
 7. Test all features including form submissions
 8. Open the HTML file in a web browser to view the travel agency page  
 9. Feel free to customize the page further to match your personal style or add additional features! 🌟  
