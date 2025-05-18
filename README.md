@@ -70,7 +70,7 @@ https://your-backend-endpoint.com/hover
 
 ## 📧 Email & Newsletter Setup
 1. Implement email service provider integration
-2. Set up newsletter subscription form
+2. Set up newsletter subscription forms
 3. Configure email templates
 4. Add form validation and success/error handling
 
