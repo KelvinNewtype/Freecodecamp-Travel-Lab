@@ -15,7 +15,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
   - Social media (IG,X and FB optimised) sharing optimization
 - Structured navigation with HTML5 elements
 - Improved accessibility with ARIA labels and roles
-- Optimized image alt texts for Search Engine Optimisation 
+- Optimized image alt texts for SEO
 - Enhanced contact section with a proper email format
 - Footer with copyright and privacy policy links (not working) 
 
