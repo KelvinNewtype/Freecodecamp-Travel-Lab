@@ -9,7 +9,7 @@ This project is the solution for a FreeCodeCamp HTML lab, the one directly after
 - The page includes a "DOCTYPE" declaration  
 - The "html" element has the "lang" attribute set to `"en"`  
 - The `head` element contains:
-  - Complete SEO meta tags including Open Graph and Twitter Cards
+  - Complete SEO meta tags including Open Graph and X Cards
   - Proper URLs and favicon
   - Enhanced meta descriptions and keywords
   - Social media (IG,X and FB optimised) sharing optimization
