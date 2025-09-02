@@ -1,101 +1,157 @@
-### Travel Agency Page 
+# 🌍 Travel Agency Page  
 
-This project is the solution for a FreeCodeCamp HTML lab, the one directly after the HTML Fundamentals lesson. It showcases various travel packages and top itineraries, allowing for practice in HTML structure, semantics, and CSS styling. 
+This project is a **FreeCodeCamp HTML lab solution** (from the lesson directly after *HTML Fundamentals*).  
+It showcases **travel packages** and **top itineraries**, while serving as practice for **HTML structure, semantics, CSS styling, and basic JavaScript functionality**.  
 
 ---
 
-### 📝 User Stories 
-#### HTML:  
-- The page includes a "DOCTYPE" declaration  
-- The "html" element has the "lang" attribute set to `"en"`  
-- The `head` element contains:
-  - Complete SEO meta tags including Open Graph and X Cards
-  - Proper URLs and favicon
-  - Enhanced meta descriptions and keywords
-  - Social media (IG,X and FB optimised) sharing optimization
-- Structured navigation with HTML5 elements
-- Improved accessibility with ARIA labels and roles
-- Optimized image alt texts for SEO
-- Enhanced contact section with a proper email format
-- Footer with copyright and privacy policy links (not working) 
+## 📝 User Stories  
 
-#### CSS:  
-- Styled using **brutalism design principles** to give the page a bold and functional aesthetic  
-- Features include:  
-  - **Bright primary colors**: Each section is visually distinct for clarity and emphasis  
-  - **Minimal spacing**: Ensures a direct and clean layout  
-  - **Typewriter font**: Adds a functional, old-school feel  
-  - **Centered layout**: Keeps the design centered, simple and engaging
+### HTML  
+- ✅ Includes a `"DOCTYPE"` declaration  
+- ✅ `<html>` element has the `lang="en"` attribute  
+- ✅ `<head>` contains:  
+  - SEO meta tags (Open Graph + Twitter Cards)  
+  - Proper URLs and favicon  
+  - Meta descriptions and keywords  
+  - Social media sharing optimization (IG, X, FB)  
+- ✅ Structured navigation with HTML5 elements  
+- ✅ Improved accessibility (ARIA labels + roles)  
+- ✅ Optimized image alt text for SEO  
+- ✅ Contact section with proper email format  
+- ✅ Footer with copyright + privacy policy links  
 
-#### JS:
-# 🎯 User Tracking and Image Lazy Loading 
+### CSS  
+Styled with **brutalism design principles**:  
+- 🎨 **Bright primary colors** → each section visually distinct  
+- 📏 **Minimal spacing** → clean and direct  
+- ⌨️ **Typewriter font** → bold and functional feel  
+- 🎯 **Centered layout** → simple, engaging, easy to follow  
 
-## ✨ Features
-- 🔍 Mouse hover tracking & data collection
-- 🖼️ Image lazy loading
-- 📡 Backend data transmission
-- 📧 Email & Newsletter subscription functionality
-- 🔄 Form validation and submission handling
+### JavaScript  
+#### 🎯 User Tracking & Image Lazy Loading  
+- 🔍 Mouse hover tracking & analytics  
+- 🖼️ Lazy loading for images  
+- 📡 Backend data transmission  
+- 📧 Email & Newsletter subscription functionality  
+- 🔄 Form validation & submission handling  
 
-## 💻 Usage
-### Lazy Loading
+---
+
+## ✨ Features  
+
+### Lazy Loading  
 ```html
 <img data-src="image.jpg" alt="description">
-```
 
-### 📊 Hover Data Format
-```json
+Hover Data Format
+
 {
-    "x": number,
-    "y": number,
-    "element": string,
-    "textContent": string | null,
-    "timestamp": string
+  "x": number,
+  "y": number,
+  "element": string,
+  "textContent": string | null,
+  "timestamp": string
 }
-```
 
-## ⚙️ Requirements
-- 🌐 Modern browser
-- 📡 Active backend endpoint
-- 📨 Vercel deployment configuration
-- 📧 Newsletter service integration
 
-## 🔧 Deployment
-1. Configure Vercel deployment parameters 
+---
+
+⚙️ Requirements
+
+🌐 Modern browser
+
+📡 Backend endpoint for data collection
+
+📨 Vercel deployment setup
+
+📧 Newsletter/email service integration
+
+
+
+---
+
+🔧 Deployment
+
+1. Configure Vercel deployment parameters
+
+
 2. Set up environment variables for email service
+
+
 3. Update backend URL before deployment:
-```javascript
+
+
+
 https://your-backend-endpoint.com/hover
-```
 
-## 📧 Email & Newsletter Setup
-1. Implement email service provider integration
-2. Set up newsletter subscription forms
+
+---
+
+📧 Email & Newsletter Setup
+
+1. Integrate with email service provider
+
+
+2. Add newsletter subscription forms
+
+
 3. Configure email templates
-4. Add form validation and success/error handling
+
+
+4. Implement validation + success/error handling
+
+
+
 
 ---
 
-### 🚀 How to Use  
-1. Copy the HTML code into an HTML file (e.g., `index.html`)  
-2. Copy the CSS code into a CSS file (e.g., `styles.css`)  
-3. Link the CSS file to the HTML using this line in the `<head>`:  
-   ```html  
-   <link rel="stylesheet" href="styles.css">  
-   ```
-4. Link the JS file to the HTML using this line in the `<head>`:
-   ```html
-   <script src="path/to/script.js"></script>
-   ```
-5. Configure email and newsletter functionality
-6. Deploy to Vercel (Check ways to buy domains and renewal options) 
-7. Test all features including form submissions
-8. Open the HTML file in a web browser to view the travel agency page  
-9. Feel free to customize the page further to match your personal style or add additional features! 🌟  
+🚀 How to Use
+
+1. Copy HTML into index.html
+
+
+2. Copy CSS into styles.css
+
+
+3. Link CSS in <head>:
+
+<link rel="stylesheet" href="styles.css">
+
+
+4. Link JS in <head>:
+
+<script src="script.js"></script>
+
+
+5. Configure email + newsletter functionality
+
+
+6. Deploy via Vercel (consider domain + renewal options)
+
+
+7. Test features (form submissions, lazy loading, tracking)
+
+
+8. Open in browser to view the Travel Agency Page
+
+
+9. Customize freely 🌟
+
+
+
 
 ---
 
-### 📄 License  
-This project is open source and does not have a license. So feel free to use as possible 
+📄 License
 
-Newtype out. 🚀✨
+This project is open source and has no license.
+Feel free to use, remix, and adapt.
+
+
+---
+
+✍️ Newtype out 🚀✨
+
+
+
